@@ -1,6 +1,8 @@
 # Binge n Eat
 ![Image](resources/Project_logo.png)
 
+:star:**Please star the repository if you happen to like the project**
+
 ## Overview
 The project is a prototype of an app named as "Binge n Eat".
 The app allows Cinema lovers to order their food just from their seats during the course of the movie.
@@ -12,9 +14,6 @@ It consists of all the stages including surveys, wireframes ,lofi and high fi de
 Finally the below link also guides through an interactive experience of the application by means of a high fidelity Figma prototype.
 
 https://www.figma.com/file/VmSxyS00DveTqfjuLs0CZs/Hi-Fi?type=design&node-id=1%3A391&mode=design&t=QSfHNWdUqVXHDYfO-1
-
-
-## Demo of Use
 
 ## How to Use
 
