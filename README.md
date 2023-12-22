@@ -1,4 +1,4 @@
-# RILEY-your_friendly_assistant
+# Binge n Eat
 ![Image](resources/Project_logo.png)
 
 ## Overview
