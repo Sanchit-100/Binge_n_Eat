@@ -18,10 +18,10 @@ https://www.figma.com/file/VmSxyS00DveTqfjuLs0CZs/Hi-Fi?type=design&node-id=1%3A
 
 ## How to Use
 
-`git clone https://github.com/Sanchit-100/RILEY-your_friendly_assistant.git`
+`git clone https://github.com/Sanchit-100/Binge_n_Eat.git`
 
 ## How to Contribute
 1. Clone repo and create a new branch:
- `git checkout https://github.com/Sanchit-100/RILEY-your_friendly_assistant.git`
+ `git checkout https://github.com/Sanchit-100/Binge_n_Eat.git`
 2. Make changes
 3. Submit Pull Request with a simple description.
